@@ -102,7 +102,6 @@ KEY `FK_Empleado` (`IdEmpleado`),
 KEY `FK_Sucursal_2` (`IdSucursal`),
 CONSTRAINT `FK_Producto` FOREIGN KEY (`IdProducto`) REFERENCES Productos(`IdProducto`),
 CONSTRAINT `FK_Cliente` FOREIGN KEY (`IdCliente`) REFERENCES Clientes(`IdCliente`),
-CONSTRAINT `FK_FormaDePago_2` FOREIGN KEY (`IdFormaDePago`) REFERENCES Medios_de_pago(`IdFormaDePago`),
 CONSTRAINT `FK_Empleado` FOREIGN KEY (`IdEmpleado`) REFERENCES Empleados(`IdEmpleado`),
 CONSTRAINT `FK_Sucursal_2` FOREIGN KEY (`IdSucursal`) REFERENCES Sucursales(`IdSucursal`)
 );
