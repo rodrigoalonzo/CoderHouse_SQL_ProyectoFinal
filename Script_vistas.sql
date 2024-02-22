@@ -1,4 +1,4 @@
--- VISTAS --monto_total_venta_por_cliente
+-- VISTAS --
 
 CREATE OR REPLACE VIEW ventas_sucursales_norte AS
 	(SELECT v.*
