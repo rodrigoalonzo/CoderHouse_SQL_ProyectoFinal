@@ -1,9 +1,0 @@
-IdFormaDePago;Forma_de_pago
-1;Efectivo
-2;Cheque de pago diferido
-3;Cheque común
-4;Transferencia
-5;Tarjeta de débito
-6;Tarjeta de crédito
-7;Mercadopago
-8;Modo
