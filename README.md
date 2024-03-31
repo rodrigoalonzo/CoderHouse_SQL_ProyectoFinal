@@ -1,4 +1,6 @@
 **CODERHOUSE - PROYECTO FINAL - SQL**
+-------------------------------------
+
 
 En este repositorio se encuentra:
 
