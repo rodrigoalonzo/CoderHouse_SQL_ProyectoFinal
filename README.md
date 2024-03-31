@@ -1,3 +1,5 @@
+CODERHOUSE - PROYECTO FINAL - SQL
+
 En este repositorio se encuentra:
 
 ***Script de creación de base de datos:*** 01_Script_proyectoFinal_coderHouse_v2
