@@ -1,46 +1,21 @@
 En este repositorio se encuentra:
 
-***Script de creación de base de datos:*** Script_proyectoFinal_coderHouse.sql
-
+***Script de creación de base de datos:*** 01_Script_proyectoFinal_coderHouse_v2
 
 -----------------------------------------------------
-***Script de creación de vistas:*** Script_vistas.sql
+***Script de inserción de datos:*** 02_Script_insercion_de_datos
+
+-----------------------------------------------------
+***Script de creación de vistas:*** 03_Script_vistas
 
 -------------------------
-***SCRIPT DE FUNCIONES***
-
-***Calculadora monto de ventas por empleado:*** Script_func_calcular_monto_ventas_empleado.sql
-
-***Calculadora monto de ventas por sucursal:*** Script_func_calcular_monto_ventas_sucursal.sql
-
-***Calculadora monto total de producto:*** Script_func_calcular_monto_total_producto.sql
-
-***Consultar nombre producto:*** Script_func_consultar_nombre_producto.sql
-
-***Consultar precio producto:*** Script_func_consultar_precio_producto.sql
+***Script de funciones y stored procedures:*** 04_Script_funciones_y_sp
 
 ---------------------------------
-***SCRIPT DE STORED PROCEDURES***
-
-***proc_buscar_Id_producto:*** Script_proc_buscar_id_producto.sql
-
-***proc_ordenar_productos:*** Script_proc_ordenar_productos.sql
+***Script de triggers:*** 05_Script_triggers
 
 ------------------------------------------
-***ARCHIVOS CSV PARA INSERCIÓN DE DATOS***
+***Script de lenguaje de control de transacciones (TCL):*** 06_Script_TCL
 
-***Tabla "categoria de productos":*** 01_Categoria_de_productos.csv
-
-***Tabla "clientes":*** 02_Clientes.csv
-
-***Tabla "empleados":*** 03_empleados.csv
-
-***Tabla "sucursales":*** 04_Sucursales.csv
-
-***Tabla "medios de pago":*** 05_Medios_de_pago.csv
-
-***Tabla "productos":*** 06_Productos.csv
-
-***Tabla "proveedores":*** 07_Proveedores.csv
-
-***Tabla "ventas":*** 08_Ventas.csv
+---------------------------------
+***Archivo .sql de backup:*** Dump20240331
