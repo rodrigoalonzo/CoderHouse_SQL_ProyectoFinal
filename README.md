@@ -1,5 +1,5 @@
-**CODERHOUSE - PROYECTO FINAL - SQL - COMISION 50070**
-----------------------------------------------------
+**CODERHOUSE - PROYECTO FINAL - SQL - COMISIÓN 50070**
+------------------------------------------------------
 
 
 En este repositorio se encuentra:
